@@ -1,5 +1,14 @@
 # Barebones Express-React App
 
+## How to Run:
+
+- Clone this Repo
+- make sure you have npm installed
+- cd into the client folder, then type 'npm i' in terminal
+- open a new terminal and cd into server folder, then again use  'npm i'
+- in server folder terminal, run 'nodemon' (make sure you have nodemon installed)
+- in client folder terminal, run 'npm start'
+
 ## Creating the Express App from scratch:
 
 ![image](https://user-images.githubusercontent.com/91104605/214197669-65755ace-b7c2-4392-8dbb-a67251d10409.png)
@@ -22,9 +31,6 @@ To download this app and to use it: navigate to the server folder and run 'npm i
 ## Creating the React App: 
 ![image](https://user-images.githubusercontent.com/91104605/214197997-4b9479ad-9ab4-4ebe-b32a-a75c22892653.png)
 
-### Make sure to have the proxy for the backend: 
-
-![image](https://user-images.githubusercontent.com/91104605/214198105-feb484cd-69c1-447a-9f86-9dd5a4051eeb.png)
 
 
 
